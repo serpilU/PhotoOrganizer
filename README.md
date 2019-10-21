@@ -1,5 +1,5 @@
 # PhotoOrganizer
-"""
+
 Created on Mon Oct 21 13:35:05 2019
 
 @author: serpil üstebay
@@ -26,4 +26,4 @@ target directory:
     2017:
         10:
             Image00.jpeg
-"""
+
