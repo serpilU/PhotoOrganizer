@@ -17,9 +17,10 @@ source directory:
 after executing the code
 
 target directory:
-    2019:
-        08:
-            Image012.jpg
+||
+||-------------2019:
+|___________________08:
+|_______________________Image012.jpg
         07:
             Image0121856.JPG
     2017:
